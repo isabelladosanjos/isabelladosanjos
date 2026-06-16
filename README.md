@@ -27,7 +27,9 @@ Sou desenvolvedora com foco em **Back-end e Engenharia de Dados**, mas com o dif
 
 Atualmente atuo como **Estagiária de Suporte em Sistemas na Adimax**, realizando suporte técnico, análise de incidentes, acompanhamento de chamados e validação de processos internos utilizando sistemas internos e o ERP Protheus.
 
-Com domínio em **Python, C#, SQL e MySQL**, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
+Meu dia a dia envolve atendimento direto a representantes comerciais e gerentes de vendas, atuando na identificação e resolução de problemas em sistemas utilizados pela área comercial. Entre as atividades realizadas estão criação e manutenção de usuários, cadastros diversos, correção de inconsistências, suporte relacionado a caixas de verba, geração e análise de relatórios, além da validação de processos e regras de negócio que impactam diretamente a operação comercial.
+
+Com domínio em Python, C#, SQL e MySQL, foco na construção de sistemas seguros, automatizados e escaláveis. Minha experiência em ambientes corporativos de alta demanda fortaleceu minhas habilidades em troubleshooting, análise crítica, cumprimento de SLA e suporte a operações críticas de negócio.
 
 * **Full Stack Mindset:** Back-end robusto integrado a interfaces Modern-Clean.
 * **Corporate Experience:** ERP, sustentação de sistemas e suporte corporativo.
@@ -41,11 +43,16 @@ Com domínio em **Python, C#, SQL e MySQL**, foco na construção de sistemas se
 ### ✦ Adimax
 > *Estagiária de Suporte em Sistemas Corporativos*
 
-Atuação no suporte e sustentação de sistemas empresariais utilizando ERP Protheus (TOTVS), auxiliando usuários e equipes internas na resolução de incidentes e validação de processos corporativos.
+Atuação no suporte e sustentação de sistemas empresariais auxiliando usuários, representantes comerciais e gerentes de vendas na resolução de incidentes e validação de processos corporativos.
 
 * Suporte técnico a sistemas corporativos e ERP.
+* Atendimento e suporte à equipe comercial.
+* Criação e manutenção de usuários.
+* Realização de cadastros e parametrizações de sistema.
+* Suporte e análise de inconsistências relacionadas a caixas de verba.
+* Geração, validação e apoio na análise de relatórios.
 * Acompanhamento de chamados e cumprimento de SLA.
-* Execução e validação de scripts SQL.
+* Consulta, execução e validação de scripts SQL.
 * Análise de inconsistências e regras de negócio.
 * Apoio em integrações e processos internos.
 * Contato com banco de dados e ambientes corporativos.
@@ -56,7 +63,6 @@ Atuação no suporte e sustentação de sistemas empresariais utilizando ERP Pro
 
 Atuação em atendimento estratégico e prevenção a fraudes, auxiliando clientes em cenários críticos envolvendo segurança digital, análise de risco e validação de identidade.
 
-* Atendimento receptivo e humanizado para clientes em situações de fragilidade financeira pós e anti-fraudes.
 * Análise investigativa de riscos e identificação de padrões suspeitos em transações digitais.
 * Tratativa de contestações e desacordos comerciais com foco em redução de perdas financeiras.
 * Validação de identidade (ID) e gerenciamento de acessos seguindo protocolos de autenticação e segurança.
